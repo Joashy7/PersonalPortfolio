@@ -1,0 +1,16 @@
+{
+  "name": "personal_portfolio",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "repository": {
+    "type": "git",
+    "url": "NodeSite/"
+  },
+  "license": "ISC",
+  "author": "Joash Gem Marcos",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello World!\" && exit 1"
+  }
+}
